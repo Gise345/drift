@@ -32,7 +32,8 @@
         {
           "origin": "https://drift.dev/"
         }
-      ]
+      ],
+      "expo-font"
     ],
     "scheme": "drift"
   }
